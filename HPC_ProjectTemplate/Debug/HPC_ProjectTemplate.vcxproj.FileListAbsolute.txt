@@ -1,0 +1,2 @@
+E:\semester 6\HPC\proejct\HPC_ProjectTemplate\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxproj.AssemblyReference.cache
+E:\semester 6\HPC\proejct\HPC_ProjectTemplate\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxproj.SuggestedBindingRedirects.cache

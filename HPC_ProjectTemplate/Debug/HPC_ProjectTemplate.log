@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HPC_ProjectTemplate.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+F:\4th_YEAR_SC\First Term\HPC\Project_\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(151,72): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+F:\4th_YEAR_SC\First Term\HPC\Project_\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(157,72): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HPC_ProjectTemplate.vcxproj -> F:\4th_YEAR_SC\First Term\HPC\Project_\HPC_ProjectTemplate\Debug\HPC_PROJECT.exe
